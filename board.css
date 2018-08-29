@@ -1,0 +1,53 @@
+
+header {
+	width: 100%;
+	text-align: center;
+	height: 30px;
+}
+table {
+	border-top: 1px solid #444444;
+	border-collapse: collapse;
+	text-align: center;
+}
+tr {
+	border-bottom: 1px solid #444444;
+	padding: 10px;
+}
+td {
+	border-bottom: 1px solid #efefef;
+	padding: 10px;
+	text-align: center;
+}
+table .even {
+	background-color: #efefef;
+}
+td a:link {
+	text-decoration: none;
+	color: black;
+}
+td a:visited {
+	text-decoration: none;
+	color: black;
+}
+.write {
+	text-align: center;
+	margin-top: 20px;
+	padding-left: 800px;
+}
+.box {
+	background-color:#efefef;
+	text-align:center;
+	width:100px;
+	height:26px;
+	display:inline-block;
+	cursor: pointer;
+}
+.text {
+	text-align:center;
+	margin:auto;
+	font-weight: bold;
+}
+.header {
+	font-size: 20px;
+	text-align: center;
+}
