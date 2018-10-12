@@ -1,3 +1,3 @@
 # php-board
 
-sell/buy used book using naver api
+php board for sell/buy book using naver api
