@@ -4,6 +4,7 @@ php board for sell/buy book using naver api
 
 # USE  
 - HTML/CSS
-- JAVASCRIPT
+- JAVASCRIPT  
+- PHP
 - MySQL
 - Naver API
